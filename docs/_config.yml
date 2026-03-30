@@ -1,4 +1,4 @@
 title: OpenPGxLab
 description: Open pharmacogenomics learning, bioinformatics, and clinical decision-support resources
-theme: minima
+theme: jekyll-theme-cayman
 markdown: kramdown
