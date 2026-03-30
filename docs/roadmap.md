@@ -1,3 +1,8 @@
+---
+layout: default
+title: Roadmap
+---
+
 # OpenPGxLab Roadmap
 
 This roadmap outlines the planned structure of the OpenPGxLab learning path.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Exercises
+---
+
 # Exercises
 
 This section will contain practical exercises for OpenPGxLab.

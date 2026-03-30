@@ -1,3 +1,8 @@
+---
+layout: default
+title: Module 1 - Foundations of PGx
+---
+
 # Module 1: Foundations of PGx
 
 ## 1. What Is PGx?

@@ -1,3 +1,8 @@
+---
+layout: default
+title: OpenPGxLab
+---
+
 # OpenPGxLab
 
 **OpenPGxLab** is an open learning and development hub for **pharmacogenomics (PGx)**.

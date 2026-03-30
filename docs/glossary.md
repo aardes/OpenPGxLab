@@ -1,3 +1,8 @@
+---
+layout: default
+title: Glossary
+---
+
 # OpenPGxLab Glossary
 
 This glossary collects important terms used throughout OpenPGxLab.

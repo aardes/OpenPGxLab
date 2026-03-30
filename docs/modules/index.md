@@ -1,3 +1,8 @@
+---
+layout: default
+title: Modules
+---
+
 # Modules
 
 This section contains the main OpenPGxLab learning modules.
