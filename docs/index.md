@@ -2,11 +2,20 @@
 
 **OpenPGxLab** is an open learning and development hub for **pharmacogenomics (PGx)**.
 
-It is designed to help learners, bioinformaticians, laboratory scientists, clinicians, and developers understand PGx from both a **biological** and a **technical** perspective.
+It is designed to help learners, bioinformaticians, laboratory scientists, clinicians, and developers understand PGx from both a biological and a technical perspective.
+
+## Explore the Site
+
+- [Roadmap](roadmap.md)
+- [Glossary](glossary.md)
+- [Modules](modules/index.md)
+- [Exercises](exercises/index.md)
+
+## Featured Content
+
+- [Module 1: Foundations of PGx](modules/module-01-foundations.md)
 
 ## What OpenPGxLab Covers
-
-OpenPGxLab is being built to connect the full PGx stack, including:
 
 - PGx foundations
 - drug-gene mechanisms
@@ -16,12 +25,6 @@ OpenPGxLab is being built to connect the full PGx stack, including:
 - bioinformatics workflows
 - annotation databases and decision support
 - clinical reporting and implementation
-
-## Main Pages
-
-- [Roadmap](roadmap.md)
-- [Glossary](glossary.md)
-- [Module 1: Foundations of PGx](modules/module-01-foundations.md)
 
 ## Planned Learning Path
 
@@ -36,26 +39,6 @@ OpenPGxLab is being built to connect the full PGx stack, including:
 9. Population-specific and real-world PGx  
 10. Advanced topics and future directions  
 
-## Hands-On Direction
+## Project Status
 
-This project will also include practical content such as:
-
-- case-based exercises
-- genotype-to-phenotype examples
-- technology selection exercises
-- HLA interpretation examples
-- annotation workflow exercises
-- PGx bioinformatics design exercises
-
-## Current Status
-
-OpenPGxLab is in early development. The current focus is on:
-
-- building the repository structure
-- writing the core modules
-- preparing exercises
-- making the content easy to expand and contribute to
-
-## Contributing
-
-Contributions, corrections, and suggestions are welcome as the project grows.
+OpenPGxLab is in early development. The current focus is on building the structure, writing the first modules, and preparing practical exercises.
