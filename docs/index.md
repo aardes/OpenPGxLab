@@ -1,39 +1,29 @@
 # OpenPGxLab
 
-Welcome to **OpenPGxLab**, an open learning and development hub for **pharmacogenomics (PGx)**.
+**OpenPGxLab** is an open learning and development hub for **pharmacogenomics (PGx)**.
 
-This project is designed to build a practical and community-driven PGx resource that connects:
+It is designed to help learners, bioinformaticians, laboratory scientists, clinicians, and developers understand PGx from both a **biological** and a **technical** perspective.
 
-- biological foundations
-- sequencing technologies
-- bioinformatics pipelines
+## What OpenPGxLab Covers
+
+OpenPGxLab is being built to connect the full PGx stack, including:
+
+- PGx foundations
+- drug-gene mechanisms
 - HLA and immune-mediated PGx
-- annotation databases
 - genotype-to-phenotype interpretation
-- clinical decision support
+- sequencing technologies for PGx
+- bioinformatics workflows
+- annotation databases and decision support
+- clinical reporting and implementation
 
-## Mission
-
-OpenPGxLab aims to make PGx easier to understand from both a **clinical** and a **technical** perspective.
-
-Rather than focusing only on drug-gene summaries, this project also explores the full stack behind PGx implementation, including data generation, analysis, annotation, interpretation, and reporting.
-
-## What You Will Find Here
-
-- structured PGx learning modules
-- practical explanations from beginner to advanced level
-- hands-on exercises
-- technology comparisons
-- bioinformatics concepts and workflow design
-- annotation and decision-support resources
-- future community contributions
-
-## Main Sections
+## Main Pages
 
 - [Roadmap](roadmap.md)
+- [Glossary](glossary.md)
 - [Module 1: Foundations of PGx](modules/module-01-foundations.md)
 
-## Planned Topics
+## Planned Learning Path
 
 1. Foundations of PGx  
 2. Core PGx genes and mechanisms  
@@ -46,10 +36,26 @@ Rather than focusing only on drug-gene summaries, this project also explores the
 9. Population-specific and real-world PGx  
 10. Advanced topics and future directions  
 
-## Project Status
+## Hands-On Direction
 
-OpenPGxLab is currently in early development. The first phase focuses on building the structure, writing core learning materials, and preparing practical exercises for future contributors and learners.
+This project will also include practical content such as:
+
+- case-based exercises
+- genotype-to-phenotype examples
+- technology selection exercises
+- HLA interpretation examples
+- annotation workflow exercises
+- PGx bioinformatics design exercises
+
+## Current Status
+
+OpenPGxLab is in early development. The current focus is on:
+
+- building the repository structure
+- writing the core modules
+- preparing exercises
+- making the content easy to expand and contribute to
 
 ## Contributing
 
-This project is intended to grow over time as an open educational and technical resource. Contributions, corrections, and suggestions will be welcome as the repository matures.
+Contributions, corrections, and suggestions are welcome as the project grows.
