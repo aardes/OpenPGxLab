@@ -3,6 +3,7 @@ layout: default
 title: OpenPGxLab
 ---
 {% include breadcrumbs.html %}
+{% include topnav.html %}
 
 # OpenPGxLab
 

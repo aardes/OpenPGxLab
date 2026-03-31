@@ -2,6 +2,8 @@
 layout: default
 title: Roadmap
 ---
+{% include breadcrumbs.html %}
+{% include topnav.html %}
 
 # OpenPGxLab Roadmap
 

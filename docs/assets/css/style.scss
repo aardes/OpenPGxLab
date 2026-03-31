@@ -27,3 +27,27 @@
   margin: 0 0.45rem;
   opacity: 0.8;
 }
+
+.pgx-topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin: 0 0 1rem 0;
+  padding: 0.75rem 1rem;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 10px;
+}
+
+.pgx-topnav a {
+  text-decoration: none;
+  font-weight: 700;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.16);
+  transition: all 0.2s ease;
+}
+
+.pgx-topnav a:hover {
+  background: rgba(255, 255, 255, 0.28);
+  text-decoration: none;
+}

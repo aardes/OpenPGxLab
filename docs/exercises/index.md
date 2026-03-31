@@ -5,6 +5,7 @@ section_title: Exercises
 section_url: /exercises/
 ---
 {% include breadcrumbs.html %}
+{% include topnav.html %}
 
 # Exercises
 
