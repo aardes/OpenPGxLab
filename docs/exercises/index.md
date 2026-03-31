@@ -12,10 +12,10 @@ This section will contain practical exercises for OpenPGxLab.
 ## Available Exercises
 
 - [Exercise 1: Foundations of PGx](exercise-01-foundations-of-pgx.md)
+- [Exercise 2: Core PGx Genes and Mechanisms](exercise-02-core-pgx-genes-and-mechanisms.md)
 
 ## Planned Exercise Types
 
-- case-based PGx interpretation
 - metabolizer phenotype exercises
 - prodrug vs active drug examples
 - HLA-associated risk cases

@@ -12,10 +12,11 @@ This section contains the main OpenPGxLab learning modules.
 ## Available Modules
 
 - [Module 1: Foundations of PGx](module-01-foundations.md)
+- [Module 2: Core PGx genes and mechanisms](module-02-core-pgx-genes-and-mechanisms.md)
 
 ## Planned Modules
 
-- Module 2: Core PGx genes and mechanisms
+
 - Module 3: HLA and immune-mediated PGx
 - Module 4: Genotype-to-phenotype interpretation
 - Module 5: PGx testing technologies

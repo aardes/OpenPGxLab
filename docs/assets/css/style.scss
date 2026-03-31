@@ -158,3 +158,26 @@ html {
   font-size: 0.95rem;
   color: #666;
 }
+
+.pgx-answer {
+  margin: 0.8rem 0 1.3rem 0;
+  padding: 0.2rem 0.8rem 0.8rem 0.8rem;
+  border: 1px solid #d8e3dc;
+  border-radius: 10px;
+  background: #f8fbf9;
+}
+
+.pgx-answer summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: #159957;
+  margin: 0.4rem 0;
+}
+
+.pgx-answer summary:hover {
+  text-decoration: underline;
+}
+
+.pgx-answer p {
+  margin-top: 0.7rem;
+}
