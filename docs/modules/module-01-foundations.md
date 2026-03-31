@@ -160,7 +160,7 @@ Some PGx effects are due to changes in how the drug is handled. Others are due t
 | Typical PGx impact in PD | Drug target or response pathway behaves differently |
 
 <figure class="pgx-figure">
-  <img src="{{ '/assets/images/module-01-pk-vs-pd.png' | relative_url }}" style="width:50%" alt="Simple PK vs PD diagram and reminder that PGx is one layer of decision-making">
+  <img src="{{ '/assets/images/module-01-pk-vs-pd.png' | relative_url }}" style="width:35%" alt="Simple PK vs PD diagram and reminder that PGx is one layer of decision-making">
   <figcaption>
     Figure 1. A simple conceptual comparison of pharmacokinetics (PK) and pharmacodynamics (PD), with a reminder that PGx is one important layer of decision-making, but not the whole answer.
   </figcaption>
@@ -316,18 +316,12 @@ This altered response may appear as:
 - dose sensitivity
 - increased risk of adverse reaction
 
-### Suggested figure for this section
-A simple flow diagram:
-
-**DNA variant → protein/enzyme/target change → effect on drug response**
-
-with three outcome branches:
-
-- efficacy
-- toxicity
-- adverse reaction
-
-This would work very well for the first module.
+<figure class="pgx-figure">
+  <img src="{{ '/assets/images/module-01-variant-to-response.png' | relative_url }}" style="width:35%" alt="DNA variant to altered protein function to altered drug response, with outcomes of efficacy, toxicity, and adverse reaction">
+  <figcaption>
+    Figure 2. A simplified conceptual model showing how a DNA variant may alter protein function and ultimately influence drug efficacy, toxicity, or adverse reaction risk.
+  </figcaption>
+</figure>
 
 ---
 
