@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Roadmap
+description: The OpenPGxLab roadmap outlines the planned modules covering PGx foundations, interpretation, sequencing technologies, bioinformatics, annotation, and clinical implementation.
 ---
 
 # OpenPGxLab Roadmap

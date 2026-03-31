@@ -1,6 +1,7 @@
 ---
 layout: default
 title: OpenPGxLab
+description: OpenPGxLab is an open educational project on pharmacogenomics, covering sequencing technologies, bioinformatics, HLA, annotation, and clinical interpretation.
 ---
 
 # OpenPGxLab

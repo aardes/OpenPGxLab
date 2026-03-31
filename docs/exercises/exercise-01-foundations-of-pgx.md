@@ -3,6 +3,7 @@ layout: default
 title: Exercise 1 - Basic PGx Cases
 section_title: Exercises
 section_url: /exercises/
+description: Practice the basics of pharmacogenomics with beginner-friendly exercises covering PGx definitions, PK vs PD, prodrugs, and clinical reasoning.
 ---
 
 ---

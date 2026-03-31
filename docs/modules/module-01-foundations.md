@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Module 1 - Foundations of PGx
+description: An introductory pharmacogenomics module covering PGx basics, pharmacokinetics, pharmacodynamics, prodrugs, and early clinical concepts.
 section_title: Modules
 section_url: /modules/
 ---

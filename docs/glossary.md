@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Glossary
+description: A glossary of key pharmacogenomics terms including PGx, genotype, phenotype, pharmacokinetics, pharmacodynamics, and prodrug.
 ---
 
 # OpenPGxLab Glossary

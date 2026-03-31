@@ -2,3 +2,6 @@ title: OpenPGxLab
 description: Open pharmacogenomics learning, bioinformatics, and clinical decision-support resources
 theme: jekyll-theme-cayman
 markdown: kramdown
+
+url: https://aardes.github.io
+baseurl: /OpenPGxLab
