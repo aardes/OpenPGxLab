@@ -3,6 +3,23 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+    padding: 1rem 6rem;
+}
+
+.main-content {
+    max-width: 90%;
+    padding: 2rem 2rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+}
+
+.project-tagline {
+    margin-bottom: 1rem;
+    font-weight: normal;
+    opacity: 0.7;
+}
+
 .pgx-breadcrumbs {
   margin: 0 0 1.2rem 0;
   padding: 0.7rem 1rem;
@@ -57,7 +74,7 @@
   justify-content: center;
   flex-wrap: wrap;
   gap: 0.7rem;
-  margin-top: 1.2rem;
+  margin-top: 0.2rem;
   background: transparent;
 }
 
@@ -80,5 +97,11 @@
 }
 
 .main-content .pgx-breadcrumbs {
-  margin-top: 0.5rem;
+  margin-top: -1.5rem;
+}
+
+.site-footer {
+        font-size: 1rem;
+        display: flex;
+        justify-content: center;
 }
