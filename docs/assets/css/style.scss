@@ -140,3 +140,21 @@ html {
 .pgx-back-to-top:hover {
   background: #117a46;
 }
+
+.pgx-figure {
+  margin: 1.5rem 0 2rem 0;
+  text-align: center;
+}
+
+.pgx-figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.pgx-figure figcaption {
+  margin-top: 0.7rem;
+  font-size: 0.95rem;
+  color: #666;
+}
