@@ -160,7 +160,7 @@ Some PGx effects are due to changes in how the drug is handled. Others are due t
 | Typical PGx impact in PD | Drug target or response pathway behaves differently |
 
 <figure class="pgx-figure">
-  <img src="{{ '/assets/images/module-01-pk-vs-pd.png' | relative_url }}" alt="Simple PK vs PD diagram and reminder that PGx is one layer of decision-making">
+  <img src="{{ '/assets/images/module-01-pk-vs-pd.png' | relative_url }}" style="width:50%" alt="Simple PK vs PD diagram and reminder that PGx is one layer of decision-making">
   <figcaption>
     Figure 1. A simple conceptual comparison of pharmacokinetics (PK) and pharmacodynamics (PD), with a reminder that PGx is one important layer of decision-making, but not the whole answer.
   </figcaption>
