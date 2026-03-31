@@ -2,6 +2,8 @@
 
 **OpenPGxLab** is an open learning and development hub for **pharmacogenomics (PGx)**, covering biological foundations, sequencing technologies, bioinformatics, HLA, annotation resources, and clinical interpretation.
 
+https://aardes.github.io/OpenPGxLab/
+
 ## Overview
 
 Pharmacogenomics connects genetics, pharmacology, bioinformatics, and clinical decision-making. OpenPGxLab is being built as a practical and community-oriented resource to help bridge these areas in a structured way.

@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Module 1 - Foundations of PGx
+section_title: Modules
+section_url: /modules/
 ---
+{% include breadcrumbs.html %}
 
 # Module 1: Foundations of PGx
 

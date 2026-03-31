@@ -1,3 +1,11 @@
+---
+layout: default
+title: Exercise 1 - Basic PGx Cases
+section_title: Exercises
+section_url: /exercises/
+---
+{% include breadcrumbs.html %}
+
 # Exercise 1: Basic PGx Cases
 
 This exercise is a placeholder for future case-based PGx learning.

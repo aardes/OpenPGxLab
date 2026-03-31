@@ -2,6 +2,7 @@
 layout: default
 title: OpenPGxLab
 ---
+{% include breadcrumbs.html %}
 
 # OpenPGxLab
 

@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Modules
+section_title: Modules
+section_url: /modules/
 ---
+{% include breadcrumbs.html %}
 
 # Modules
 

@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.pgx-breadcrumbs {
+  margin: 0 0 1.2rem 0;
+  padding: 0.7rem 1rem;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+.pgx-breadcrumbs a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.pgx-home-btn {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.pgx-sep {
+  margin: 0 0.45rem;
+  opacity: 0.8;
+}

@@ -1,0 +1,13 @@
+<nav class="pgx-breadcrumbs">
+  <a class="pgx-home-btn" href="{{ '/' | relative_url }}">Home</a>
+
+  {% if page.section_title and page.section_url %}
+    <span class="pgx-sep">›</span>
+    <a href="{{ page.section_url | relative_url }}">{{ page.section_title }}</a>
+  {% endif %}
+
+  {% if page.title and page.title != site.title %}
+    <span class="pgx-sep">›</span>
+    <span>{{ page.title }}</span>
+  {% endif %}
+</nav>
