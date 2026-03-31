@@ -11,7 +11,7 @@ This section will contain practical exercises for OpenPGxLab.
 
 ## Available Exercises
 
-- [Exercise 1: Basic PGx Cases](exercise-01-basic-pgx-cases.md)
+- [Exercise 1: Foundations of PGx](exercise-01-foundations-of-pgx.md)
 
 ## Planned Exercise Types
 

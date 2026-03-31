@@ -366,14 +366,13 @@ Without the concepts in this module, the later material becomes much harder to u
 
 ## 14. Suggested Further Reading
 
-For this introductory module, useful supporting resources may include:
+For readers who want to go deeper after this introductory module, the following resources are a good starting point:
 
-- general PGx review articles
-- introductory clinical pharmacology resources
-- PharmGKB
-- CPIC overview material
-
-A dedicated references page can be added later for the full project.
+- Qahwaji R, et al. **Pharmacogenomics: A Genetic Approach to Drug Response.** A broad review that works well as an introductory foundation for PGx. 
+- Kabbani D, et al. **Pharmacogenomics in practice: a review and implementation strategies.** Useful for connecting basic PGx concepts to real-world implementation. [oaicite:12]{index=12}
+- **PharmGKB** — a curated knowledge resource for gene–drug relationships, pathways, and PGx annotations. 
+- **CPIC** — a key source for evidence-based guidance on how to use pharmacogenetic results in prescribing. 
+- Palmer ME, et al. **The importance of pharmacokinetics and pharmacodynamics in drug development decision-making.** A useful background reference for PK and PD. 
 
 ---
 
