@@ -105,3 +105,38 @@
         display: flex;
         justify-content: center;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.pgx-back-to-top {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 999;
+  display: inline-block;
+  padding: 0.7rem 0.95rem;
+  border: none;
+  border-radius: 999px;
+  background: #159957;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.95rem;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s ease;
+}
+
+.pgx-back-to-top.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.pgx-back-to-top:hover {
+  background: #117a46;
+}

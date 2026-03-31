@@ -39,5 +39,24 @@
         </span>
       </footer>
     </main>
+    <button id="pgxTopBtn" class="pgx-back-to-top" aria-label="Go to top" title="Go to top">
+    ↑ Top
+    </button>
+
+    <script>
+    const pgxTopBtn = document.getElementById("pgxTopBtn");
+
+    window.addEventListener("scroll", function () {
+        if (window.scrollY > 300) {
+        pgxTopBtn.classList.add("show");
+        } else {
+        pgxTopBtn.classList.remove("show");
+        }
+    });
+
+    pgxTopBtn.addEventListener("click", function () {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+    </script>
   </body>
 </html>
