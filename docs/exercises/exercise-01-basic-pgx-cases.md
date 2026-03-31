@@ -4,8 +4,6 @@ title: Exercise 1 - Basic PGx Cases
 section_title: Exercises
 section_url: /exercises/
 ---
-{% include breadcrumbs.html %}
-{% include topnav.html %}
 
 # Exercise 1: Basic PGx Cases
 

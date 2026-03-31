@@ -2,8 +2,6 @@
 layout: default
 title: Glossary
 ---
-{% include breadcrumbs.html %}
-{% include topnav.html %}
 
 # OpenPGxLab Glossary
 
